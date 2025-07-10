@@ -28,6 +28,7 @@
   }
   
   .corolla {
+    position: relative;
     margin-bottom: 80px;
     min-height: 100px;
     width: max-content;
